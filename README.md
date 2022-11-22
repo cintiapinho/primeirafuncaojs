@@ -1,2 +1,2 @@
-# cintiapinho.github.io/primeirafuncaojs
+# http://cintiapinho.github.io/primeirafuncaojs
 primeirafuncaojs
